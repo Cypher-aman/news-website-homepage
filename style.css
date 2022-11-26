@@ -114,6 +114,13 @@ main {
     border: none;
     background-color: var(--softRed);
     transition: 0.3s;
+
+    text-transform: uppercase;
+    color: var(--offWhite);
+    font-weight: 700;
+    letter-spacing: 4px;
+    padding: 1rem 2rem;
+    text-decoration: none;
 }
 
 .mc-btn:hover {
