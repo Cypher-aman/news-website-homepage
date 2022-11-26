@@ -47,7 +47,7 @@ body {
 .navbar-list {
     list-style: none;
     display: flex;
-    gap: 2rem;
+    gap: 2.5rem;
 }
 
 .navbar-links {
@@ -88,7 +88,7 @@ main {
 .main-content {
     display: grid;
     gap: 1rem;
-    margin-bottom: 4rem;
+    margin-bottom: 3rem;
 }
 
 .main-content img {
@@ -261,7 +261,7 @@ Styling Footer
 
     main,
     .header {
-        max-width: 1200px;
+        max-width: 1170px;
         margin: 3rem auto;
         padding: 0 1rem;
     }
@@ -327,7 +327,6 @@ Styling Card-Post
         display: grid;
         grid-template-columns: repeat(3, 1fr);
         gap: 1.5rem;
-        margin: 1.5rem 0;
     }
 }
 
